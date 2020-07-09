@@ -1,0 +1,130 @@
+body {
+    margin: 0px;
+    font-family: Roboto;
+}
+.container{
+    margin-bottom: 50px;
+}
+
+nav img {
+    height: 40px;
+}
+
+.col-md-7 .red {
+    color: red;
+}
+
+.col-md-7 .green {
+    color: green
+}
+
+.home {
+    background-color: #F0FFF0;
+    padding-bottom: 70px;
+}
+
+.home p {
+    color: #6C6B6B;
+}
+
+.left_side {
+    font-family: Poppins;
+}
+
+.left_side h1 {
+    font-weight: 700px;
+    text-align: left;
+}
+
+.container button {
+    background-color: #21B573;
+    padding: 10px 23px;
+    border-radius: 33px;
+    color: #fff;
+    border-style: none;
+}
+.courses {
+    border-style: none;
+}
+.courses h3{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+.courses p{
+    color:#585859;
+}
+.card-footer{
+    border-style: none;
+    background-color: #fff;
+}
+.card-footer .col-md-7{
+    text-align: left;
+}
+.card-footer .col-md-5{
+    text-align: right;
+}
+
+.blog h3{
+    margin-bottom: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+.blog img{
+    height: 120px;
+    width: 120px;
+    left: 100%;
+    text-align: right;
+    float: right;
+}
+.blog p{
+    margin-top: 15px;
+    text-align: 
+}
+
+.footer {
+    background-color: #282531;
+    width: 1440px;
+    height: 369px;
+    left: 0px;
+    top: 2013px;
+    color: #fff;
+}
+.footer p{
+    margin-top: 50px;
+}
+
+.books img {
+    width: 270px;
+    height: 270px;
+    background: #F8FFFB;
+    border-style: 1px;
+    border-radius: 10px;
+}
+.books h5{
+    text-align: center;
+}
+.row img{
+    
+width: 68px;
+height: 76px;
+left: 1141px;
+top: 677px;
+}
+
+.row h5{
+    margin-top: 20px;
+    font-weight: bold;
+}
+.row p{
+    color: #585859;
+    text-align: justify;
+}
+footer{
+    background: #282531;
+    color: #fff;
+    padding: 0px 0px 50px 0px;
+}
+footer li{
+    list-style: none;
+}
